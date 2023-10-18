@@ -4,4 +4,4 @@ numpy==1.22.0
 pandas==0.24.1
 pandas-datareader==0.7.0
 pandas-profiling==1.4.1
-urllib3==1.26.5 
+urllib3==1.26.18 
